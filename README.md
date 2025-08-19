@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>IT Help Desk</b>
-  - [Network Security Groups (NSGs)](https://github.com/LINKNAME/TITLE)
+  - [Network Security Groups (NSGs)](https://github.com/ChrisBittinger/Network-Security-Groups)
   - [Inspecting Network Protocols]
   - [Remote Desktop]
   - [osTicket: Installation]
