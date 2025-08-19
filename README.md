@@ -11,7 +11,9 @@
   
 
 <h2>Connect with me to see more!</h2>
-[linkedin]: https://linkedin.com/in/christopher-bittinger-203305a338
+<img align="left" alt="christopher | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+[linkedin]: https://linkedin.com/in/christopher
 
 <!--
 **ChrisBittinger/ChrisBittinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
