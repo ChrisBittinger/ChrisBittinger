@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris, an <a href="www.linkedin.com/in/christopher-bittinger-20305a338">IT Profesional</a></h1>
+<h1>Hi, I'm Chris, an <a href="www.linkedin.com/in/christopher-bittinger">IT Profesional</a></h1>
 
 <!--
 **ChrisBittinger/ChrisBittinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
