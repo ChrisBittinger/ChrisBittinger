@@ -11,8 +11,7 @@
   
 
 <h2>Connect with me to see more!</h2>
-<img align="left" alt="christopher | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
+[<img align="left" alt="Christopher | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg/>][linkedin]
 [linkedin]: https://linkedin.com/in/christopher
 
 <!--
