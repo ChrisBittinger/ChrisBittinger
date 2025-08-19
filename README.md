@@ -12,9 +12,9 @@
 
 <h2>Connect with me to see more!</h2>
 
-[<img align="left" alt="https://www.linkedin.com/in/christopher-bittinger-20305a338 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="christopherbittinger | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
    
-[linkedin]: https://linkedin.com/in/christopherbittinger
+[linkedin]: https://linkedin.com/in/christopher-bittinger-20305a338
 
 <!--
 **ChrisBittinger/ChrisBittinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
