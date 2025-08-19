@@ -12,7 +12,7 @@
 
 <h2>Connect with me to see more!</h2>
 
-[<img align="left" alt="christopher-bittinger-20305a338 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="christopher-bittinger-20305a338" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
    
 [linkedin]: https://linkedin.com/in/christopherbittinger
 
