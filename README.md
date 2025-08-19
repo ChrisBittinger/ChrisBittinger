@@ -1,4 +1,17 @@
-<h1>Hi, I'm Chris, an <a href="https://www.linkedin.com/in/christopher-bittinger-20305a338">IT Profesional</a></h1>
+<h1>Hi, I'm Chris, an Aspiring <a href="https://www.linkedin.com/in/christopher-bittinger-20305a338"> Security IT Profesional</a></h1>
+
+<h2>Information Technology Projects:</h2>
+
+- <b>IT Help Desk</b>
+  - [Network Security Groups (NSGs)]
+  - [Inspecting Network Protocols]
+  - [Remote Desktop]
+  - [osTicket: Installation]
+  - [Configuring Active Directory]
+  
+
+<h2>Connect with me to see more!</h2>
+[linkedin]: https://linkedin.com/in/christopherbittinger
 
 <!--
 **ChrisBittinger/ChrisBittinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
