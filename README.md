@@ -5,7 +5,7 @@
 - <b>IT Help Desk</b>
   - [Network Security Groups (NSGs)](https://github.com/ChrisBittinger/Network-Security-Groups)
   - [Inspecting Network Protocols](https://github.com/ChrisBittinger/Inspecting-Network-Protocols)
-  - [Remote Desktop]
+  - [Remote Desktop](https://github.com/ChrisBittinger/Remote-Desktop)
   - [osTicket: Installation]
   - [Configuring Active Directory]
   
