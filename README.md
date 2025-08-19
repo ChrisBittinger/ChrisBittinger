@@ -7,7 +7,7 @@
   - [Inspecting Network Protocols](https://github.com/ChrisBittinger/Inspecting-Network-Protocols)
   - [Remote Desktop](https://github.com/ChrisBittinger/Remote-Desktop)
   - [osTicket: Installation](https://github.com/ChrisBittinger/osTicket-Installation)
-  - [Configuring Active Directory]
+  - [Configuring Active Directory](https://github.com/ChrisBittinger/Configuring-Active-Directory)
   
 
 <h2>Connect with me to see more!</h2>
