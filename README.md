@@ -6,7 +6,7 @@
   - [Network Security Groups (NSGs)](https://github.com/ChrisBittinger/Network-Security-Groups)
   - [Inspecting Network Protocols](https://github.com/ChrisBittinger/Inspecting-Network-Protocols)
   - [Remote Desktop](https://github.com/ChrisBittinger/Remote-Desktop)
-  - [osTicket: Installation]
+  - [osTicket: Installation](https://github.com/ChrisBittinger/osTicket-Installation)
   - [Configuring Active Directory]
   
 
